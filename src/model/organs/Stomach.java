@@ -7,7 +7,7 @@ public class Stomach implements Organ{
      * @return
      */
     public int getCurrentFoodAmount() {
-        return 10;
+        return this.foodAmount;
     }
 
     /**
