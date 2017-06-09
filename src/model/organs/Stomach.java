@@ -7,7 +7,7 @@ public class Stomach implements Organ{
      * @return
      */
     public int getCurrentFoodAmount() {
-        throw new UnsupportedOperationException();
+        return 1;
     }
 
     /**
